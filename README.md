@@ -1,4 +1,4 @@
-#UAS Kecerdasan Komputasional
+# UAS Kecerdasan Komputasional
 
 ## Nama		: Rizal Akbar Fitrianto
 ## NIM		: 23420001
